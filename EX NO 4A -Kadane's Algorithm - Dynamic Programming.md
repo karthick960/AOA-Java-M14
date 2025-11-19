@@ -1,6 +1,6 @@
 
 # EX 4A Kadane's Algorithm - Dynamic Programming. 
-## DATE:19/11/2025
+## DATE:21/10/2025
 ## AIM:
 To Write a Java program to solve the below problem using Kadane's Algorithm.
 A solar company installs solar panels around a circular grid of n buildings. Each building either generates or consumes net energy, represented by integers (+ve for generated, -ve for consumed).
@@ -34,7 +34,7 @@ Constraints:
 ## Program:
 
 Kadane's Algorithm - Dynamic Programming.
-Developed by: KARTHICK K
+Developed by: Karthick K
 Register Number: 212222040070
 ```java
 import java.util.*;
