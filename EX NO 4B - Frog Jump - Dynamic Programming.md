@@ -27,9 +27,11 @@ A single integer – number of distinct ways to reach step n.
 5.Output dp[n] as the total number of distinct ways to reach the top.   
 
 ## Program:
+```
 Frog Jump - Dynamic Programming.
 Developed by: Karthick K
 Register Number: 212222040070
+```
 ```java
 import java.util.Scanner;
 
