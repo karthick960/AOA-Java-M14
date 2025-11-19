@@ -94,7 +94,7 @@ public class Main {
 ```
 
 ## Output:
-ch<img width="1282" height="407" alt="image" src="https://github.com/user-attachments/assets/6f15aa07-9e2d-4232-ac99-b2b3df5edc06" />
+<img width="1282" height="407" alt="image" src="https://github.com/user-attachments/assets/6f15aa07-9e2d-4232-ac99-b2b3df5edc06" />
 
 
 ## Result:
